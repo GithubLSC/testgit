@@ -1,1 +1,1 @@
-hello git!
+hello gitecho hello gitgit status!
